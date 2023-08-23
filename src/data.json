@@ -1,0 +1,49 @@
+[
+    {
+      "Geography": "North America",
+      "Product 1": 10000000,
+      "Product 2": 3000000,
+      "Product 3": 2000000,
+      "sub_geographies": [
+        {
+          "Geography": "United States",
+          "Product 1": 8000000,
+          "Product 2": 2400000,
+          "Product 3": 1600000
+        },
+        {
+          "Geography": "Canada",
+          "Product 1": 2000000,
+          "Product 2": 600000,
+          "Product 3": 400000
+        }
+      ]
+    },
+    {
+      "Geography": "Europe",
+      "Product 1": 4000000,
+      "Product 2": 500000,
+      "Product 3": 250000,
+      "sub_geographies": [
+        {
+          "Geography": "United Kingdom",
+          "Product 1": 1400000,
+          "Product 2": 175000,
+          "Product 3": 87500
+        },
+        {
+          "Geography": "Germany",
+          "Product 1": 1200000,
+          "Product 2": 150000,
+          "Product 3": 75000
+        },
+        {
+          "Geography": "France",
+          "Product 1": 1400000,
+          "Product 2": 175000,
+          "Product 3": 87500
+        }
+      ]
+    }
+  ]
+  

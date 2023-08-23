@@ -1,0 +1,43 @@
+/* src/DynamicTable.css */
+.table-container {
+    max-width: 100%;
+    border: 20px solid #ccc;
+    overflow: auto;
+  }
+  
+  .custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  .geography-header {
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  .product-header {
+    width: 20%; /* Equal width for product columns */
+  }
+  
+  .total-header {
+    text-align: center;
+  }
+  
+  .main-geography {
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  .sub-geography {
+    text-align: center;
+    font-style: italic; /* Specify the font-style property here */
+  }
+  
